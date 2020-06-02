@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chinen-hiroki/practice/issues"
   },
-  "homepage": "https://github.com/chinen-hiroki/practice#readme"
+  "homepage": "https://github.com/chinen-hiroki/practice#readme",
+  "dependencies": {
+    "expres": "0.0.5"
+  }
 }
